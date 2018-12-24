@@ -1,0 +1,5 @@
+28f466e1c38a0f82df4ada30e5052421  usr/include/xcb/composite.h
+37e59f6aabf814a071fe42e2e20a2c19  usr/lib/x86_64-linux-gnu/libxcb-composite.a
+f45ddd645ae6866fde70b319f5a02b92  usr/lib/x86_64-linux-gnu/pkgconfig/xcb-composite.pc
+7c16d514083ac8d54e07d73ce5e61315  usr/share/doc/libxcb-composite0-dev/changelog.Debian.gz
+618ee90893b45d0d0c19d41a3a3d2e7d  usr/share/doc/libxcb-composite0-dev/copyright

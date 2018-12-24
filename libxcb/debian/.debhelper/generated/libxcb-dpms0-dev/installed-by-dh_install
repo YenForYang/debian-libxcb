@@ -1,0 +1,4 @@
+debian/tmp/usr/include/xcb/dpms.h
+debian/tmp/usr/lib/x86_64-linux-gnu/libxcb-dpms.a
+debian/tmp/usr/lib/x86_64-linux-gnu/libxcb-dpms.so
+debian/tmp/usr/lib/x86_64-linux-gnu/pkgconfig/xcb-dpms.pc

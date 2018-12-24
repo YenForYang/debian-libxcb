@@ -1,0 +1,4 @@
+debian/tmp/usr/include/xcb/composite.h
+debian/tmp/usr/lib/x86_64-linux-gnu/libxcb-composite.a
+debian/tmp/usr/lib/x86_64-linux-gnu/libxcb-composite.so
+debian/tmp/usr/lib/x86_64-linux-gnu/pkgconfig/xcb-composite.pc

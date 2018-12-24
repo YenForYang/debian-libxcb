@@ -1,0 +1,4 @@
+debian/tmp/usr/include/xcb/dri3.h
+debian/tmp/usr/lib/x86_64-linux-gnu/libxcb-dri3.a
+debian/tmp/usr/lib/x86_64-linux-gnu/libxcb-dri3.so
+debian/tmp/usr/lib/x86_64-linux-gnu/pkgconfig/xcb-dri3.pc

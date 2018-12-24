@@ -1,0 +1,296 @@
+Format: 1.8
+Date: Fri, 14 Dec 2018 11:28:13 +0100
+Source: libxcb
+Binary: libxcb1 libxcb1-udeb libxcb1-dev libxcb-doc libxcb-composite0 libxcb-composite0-dev libxcb-damage0 libxcb-damage0-dev libxcb-dpms0 libxcb-dpms0-dev libxcb-glx0 libxcb-glx0-dev libxcb-randr0 libxcb-randr0-dev libxcb-record0 libxcb-record0-dev libxcb-render0 libxcb-render0-dev libxcb-res0 libxcb-res0-dev libxcb-screensaver0 libxcb-screensaver0-dev libxcb-shape0 libxcb-shape0-dev libxcb-shm0 libxcb-shm0-dev libxcb-sync1 libxcb-sync-dev libxcb-xf86dri0 libxcb-xf86dri0-dev libxcb-xfixes0 libxcb-xfixes0-dev libxcb-xinerama0 libxcb-xinerama0-dev libxcb-xinput0 libxcb-xinput-dev libxcb-xtest0 libxcb-xtest0-dev libxcb-xv0 libxcb-xv0-dev libxcb-xvmc0 libxcb-xvmc0-dev libxcb-dri2-0 libxcb-dri2-0-dev libxcb-present0 libxcb-present-dev libxcb-dri3-0 libxcb-dri3-dev libxcb-xkb1 libxcb-xkb-dev
+Built-For-Profiles: nobiarch nocheck nodoc
+Architecture: amd64 all
+Version: 1.13.1-2
+Distribution: unstable
+Urgency: medium
+Maintainer: Debian X Strike Force <debian-x@lists.debian.org>
+Changed-By: Andreas Boll <aboll@debian.org>
+Description:
+ libxcb-composite0 - X C Binding, composite extension
+ libxcb-composite0-dev - X C Binding, composite extension, development files
+ libxcb-damage0 - X C Binding, damage extension
+ libxcb-damage0-dev - X C Binding, damage extension, development files
+ libxcb-doc - X C Binding, development documentation
+ libxcb-dpms0 - X C Binding, dpms extension
+ libxcb-dpms0-dev - X C Binding, dpms extension, development files
+ libxcb-dri2-0 - X C Binding, dri2 extension
+ libxcb-dri2-0-dev - X C Binding, dri2 extension, development files
+ libxcb-dri3-0 - X C Binding, dri3 extension
+ libxcb-dri3-dev - X C Binding, dri3 extension, development files
+ libxcb-glx0 - X C Binding, glx extension
+ libxcb-glx0-dev - X C Binding, glx extension, development files
+ libxcb-present-dev - X C Binding, present extension, development files
+ libxcb-present0 - X C Binding, present extension
+ libxcb-randr0 - X C Binding, randr extension
+ libxcb-randr0-dev - X C Binding, randr extension, development files
+ libxcb-record0 - X C Binding, record extension
+ libxcb-record0-dev - X C Binding, record extension, development files
+ libxcb-render0 - X C Binding, render extension
+ libxcb-render0-dev - X C Binding, render extension, development files
+ libxcb-res0 - X C Binding, res extension
+ libxcb-res0-dev - X C Binding, res extension, development files
+ libxcb-screensaver0 - X C Binding, screensaver extension
+ libxcb-screensaver0-dev - X C Binding, screensaver extension, development files
+ libxcb-shape0 - X C Binding, shape extension
+ libxcb-shape0-dev - X C Binding, shape extension, development files
+ libxcb-shm0 - X C Binding, shm extension
+ libxcb-shm0-dev - X C Binding, shm extension, development files
+ libxcb-sync-dev - X C Binding, sync extension, development files
+ libxcb-sync1 - X C Binding, sync extension
+ libxcb-xf86dri0 - X C Binding, xf86dri extension
+ libxcb-xf86dri0-dev - X C Binding, xf86dri extension, development files
+ libxcb-xfixes0 - X C Binding, xfixes extension
+ libxcb-xfixes0-dev - X C Binding, xfixes extension, development files
+ libxcb-xinerama0 - X C Binding, xinerama extension
+ libxcb-xinerama0-dev - X C Binding, xinerama extension, development files
+ libxcb-xinput-dev - X C Binding, xinput extension, development files
+ libxcb-xinput0 - X C Binding, xinput extension
+ libxcb-xkb-dev - X C Binding, XKEYBOARD extension, development files
+ libxcb-xkb1 - X C Binding, XKEYBOARD extension
+ libxcb-xtest0 - X C Binding, xtest extension
+ libxcb-xtest0-dev - X C Binding, xtest extension, development files
+ libxcb-xv0 - X C Binding, xv extension
+ libxcb-xv0-dev - X C Binding, xv extension, development files
+ libxcb-xvmc0 - X C Binding, xvmc extension
+ libxcb-xvmc0-dev - X C Binding, xvmc extension, development files
+ libxcb1    - X C Binding
+ libxcb1-dev - X C Binding, development files
+ libxcb1-udeb - X C Binding (udeb)
+Changes:
+ libxcb (1.13.1-2) unstable; urgency=medium
+ .
+   * Add missing autopkgtest dependency on xauth.
+   * Set source format to 1.0.
+   * Bump standards version to 4.2.1.
+Checksums-Sha1:
+ 53b1f960443cb7da8582ed8fd2ae8955f1021b8f 7520 libxcb-composite0-dbgsym_1.13.1-2_amd64.deb
+ a58874ccb5e48629238d9d2885359197385eb42c 97852 libxcb-composite0-dev_1.13.1-2_amd64.deb
+ 994a6eadae81e5b6be6ac2b4ff2aa49ec5d74211 11660 libxcb-composite0_1.13.1-2_amd64.deb
+ 7f8585bcc695e2e6c3f329b2a64c6c05441e9aad 6564 libxcb-damage0-dbgsym_1.13.1-2_amd64.deb
+ 5e4f8ac8a0fa25ded8325747a46934ddf565bfa4 95304 libxcb-damage0-dev_1.13.1-2_amd64.deb
+ 2c8be982085293c2b1db601d038eaf7e4af87aed 11364 libxcb-damage0_1.13.1-2_amd64.deb
+ a93f5af78e93d45bd867f3839c7186dd8bade80f 8988552 libxcb-doc_1.13.1-2_all.deb
+ 1d28e3c4b18c493a89a43f9a603033794eabee57 6928 libxcb-dpms0-dbgsym_1.13.1-2_amd64.deb
+ 9313ad022cd62d9637e7ca8615da783f0a543f8b 78976 libxcb-dpms0-dev_1.13.1-2_amd64.deb
+ 222d831aa5506dc77c0df9856292778d30fe2daa 11592 libxcb-dpms0_1.13.1-2_amd64.deb
+ 9763131abc7f3aa84114c2db54b8ac046ca6c603 11816 libxcb-dri2-0-dbgsym_1.13.1-2_amd64.deb
+ a3675a46efe8399b0ba9070438fe0a422456f041 101936 libxcb-dri2-0-dev_1.13.1-2_amd64.deb
+ 7dbe957c3faa6df5854e629365d43d7ea84f08b8 13388 libxcb-dri2-0_1.13.1-2_amd64.deb
+ 34b3b0bae2c3209a639f4688d53ef9bf1f9c1aff 11088 libxcb-dri3-0-dbgsym_1.13.1-2_amd64.deb
+ 0453b25f61eb698a5226e320c38acbad487594f2 13308 libxcb-dri3-0_1.13.1-2_amd64.deb
+ 5c370a3028fbf4afdb6c50014e6861982e704380 96800 libxcb-dri3-dev_1.13.1-2_amd64.deb
+ 8ca8924e09179e5bf25c40db4bcedc8b4640f57e 54936 libxcb-glx0-dbgsym_1.13.1-2_amd64.deb
+ a23337d5abe071331e888a13861a993b63cb686d 297320 libxcb-glx0-dev_1.13.1-2_amd64.deb
+ 4d405489223cd65fbd35ea07a9b2cb1c3f245840 28920 libxcb-glx0_1.13.1-2_amd64.deb
+ 07b1b950a2dcc2a7150f8be1f4c2303729c76ac4 123672 libxcb-present-dev_1.13.1-2_amd64.deb
+ 8402bc47da9f915c2cb92e63aad9e603abc7464b 8444 libxcb-present0-dbgsym_1.13.1-2_amd64.deb
+ 7b3274e4b8ea5c33f532813c48a2c45936e57d24 12108 libxcb-present0_1.13.1-2_amd64.deb
+ 3df49daf3137264cf047e97a7bf69869cd2de344 38300 libxcb-randr0-dbgsym_1.13.1-2_amd64.deb
+ 48cf52b94ce04e883c2c156d0517a22c244665e7 227648 libxcb-randr0-dev_1.13.1-2_amd64.deb
+ f855505eb9db40ca4b695057f4a3ed199d9356e1 23348 libxcb-randr0_1.13.1-2_amd64.deb
+ 4468a321cda50b859562431966ab7db26962f9aa 11492 libxcb-record0-dbgsym_1.13.1-2_amd64.deb
+ 14519281d7c0420c619602107959c0c63fefbba3 99772 libxcb-record0-dev_1.13.1-2_amd64.deb
+ 696301cc51c946c79fce64d5263d36cde46113ff 13584 libxcb-record0_1.13.1-2_amd64.deb
+ f35ae0255de3a0cfc950ad63dffe10d7bdea5129 32488 libxcb-render0-dbgsym_1.13.1-2_amd64.deb
+ 1c331698b3e43629110cac7e7b4e9c883e16941d 206668 libxcb-render0-dev_1.13.1-2_amd64.deb
+ e08c6ed83dbb4b63c39ea8d54d969fd97bf864d3 22924 libxcb-render0_1.13.1-2_amd64.deb
+ 93559c2d8d8d8f21102031365755794cc7646791 10412 libxcb-res0-dbgsym_1.13.1-2_amd64.deb
+ 09174f0f6ce97fcc4121dda7c294e81642c5d01f 94008 libxcb-res0-dev_1.13.1-2_amd64.deb
+ 0c65a10c91158c29115fa7f58810f34e683a21ff 13148 libxcb-res0_1.13.1-2_amd64.deb
+ 24325b77b25c3f14b671639ddc01367cbac30113 9696 libxcb-screensaver0-dbgsym_1.13.1-2_amd64.deb
+ 1b9dec501bb24c42a044f7974d347fea1aac3232 96900 libxcb-screensaver0-dev_1.13.1-2_amd64.deb
+ e4b40aa18b81c5f7c3ac7dd1e91d001b6e5a9ba6 13172 libxcb-screensaver0_1.13.1-2_amd64.deb
+ 171b9421e5d6ae25926163387b5b13594be9fee1 9508 libxcb-shape0-dbgsym_1.13.1-2_amd64.deb
+ 5b99ac9ee21a6888041b6104754bcf17e60022ba 91280 libxcb-shape0-dev_1.13.1-2_amd64.deb
+ 9a9253792252a8d242af0108195082da57804617 12456 libxcb-shape0_1.13.1-2_amd64.deb
+ 99e3d1faaa9c1ecf545483ce44c4dd8f1c1f078d 8748 libxcb-shm0-dbgsym_1.13.1-2_amd64.deb
+ 882aebd04d98d3fe4ef1ef5e9e3a85076070c4cb 87276 libxcb-shm0-dev_1.13.1-2_amd64.deb
+ cc0f596a421af0111eb2d548fdfefd16e2fd31dd 12068 libxcb-shm0_1.13.1-2_amd64.deb
+ 83d3fa0e4a46798806c27525546e0b874d240db4 126468 libxcb-sync-dev_1.13.1-2_amd64.deb
+ d0996aa976ef76bbe21cf5bfee0f0f18b29efacc 16220 libxcb-sync1-dbgsym_1.13.1-2_amd64.deb
+ e8c77739341e7a5824cd95d4818a31f3e7906057 15812 libxcb-sync1_1.13.1-2_amd64.deb
+ 3b51995b1faebfc8c6d3ea7cf4e99a74d0b9c8e0 10544 libxcb-xf86dri0-dbgsym_1.13.1-2_amd64.deb
+ b92cb45dcd1941d36bae0f5c8228936dea736206 94328 libxcb-xf86dri0-dev_1.13.1-2_amd64.deb
+ fc4c190cbbd56336f00137fd06a35ca45d324338 12988 libxcb-xf86dri0_1.13.1-2_amd64.deb
+ f9cfca89a83398a0de7f97a4226431f0e60bcf81 17488 libxcb-xfixes0-dbgsym_1.13.1-2_amd64.deb
+ e50dc27247b002c152d18520f64174194e994680 143820 libxcb-xfixes0-dev_1.13.1-2_amd64.deb
+ 7b1d4da48e66cb6368b669967c7a6c21d0e8c8a2 15668 libxcb-xfixes0_1.13.1-2_amd64.deb
+ ba86ab30419010d75e2cdd723df93db7c84fc092 7476 libxcb-xinerama0-dbgsym_1.13.1-2_amd64.deb
+ af4d9ce85385bc534ffd8799efaa92114af1859d 80812 libxcb-xinerama0-dev_1.13.1-2_amd64.deb
+ 8f9faa116815d92d28029a1da7da2cc0d4609ab2 11772 libxcb-xinerama0_1.13.1-2_amd64.deb
+ ae67f6ce1ac7b9078419eb2aba0484562738e9c6 516520 libxcb-xinput-dev_1.13.1-2_amd64.deb
+ 3209c204ebcb944f99a4836b2ce23f48e98bc18e 91684 libxcb-xinput0-dbgsym_1.13.1-2_amd64.deb
+ 2f0d62821a126f0037083782adafd6edd886456b 44272 libxcb-xinput0_1.13.1-2_amd64.deb
+ ca863c383d0ecbff4b715559aba43c2f2201d5f2 434072 libxcb-xkb-dev_1.13.1-2_amd64.deb
+ 6f48fc749be7a134f440a7c5a7ec4015b6aca493 71764 libxcb-xkb1-dbgsym_1.13.1-2_amd64.deb
+ ab8e726d7f4a4777ff940917ebac15efc56549a0 46320 libxcb-xkb1_1.13.1-2_amd64.deb
+ 3d4593ce6034607e164105d7c633f435b5ca9c40 6552 libxcb-xtest0-dbgsym_1.13.1-2_amd64.deb
+ 71b8e17fb885e22f066488a1901f0b2e57b4c23a 76776 libxcb-xtest0-dev_1.13.1-2_amd64.deb
+ 894faa91eab16bc029e419ea264172d9ac68d14f 11412 libxcb-xtest0_1.13.1-2_amd64.deb
+ d6fdfd26aa72380a4348b8699f49e8e5a198850a 19152 libxcb-xv0-dbgsym_1.13.1-2_amd64.deb
+ 9081e30c15f46099f5d49ac9ef7c7f96d5e86c59 135188 libxcb-xv0-dev_1.13.1-2_amd64.deb
+ 19704be65f46e3d4dcf2de2919ffc0c0b47158d3 16288 libxcb-xv0_1.13.1-2_amd64.deb
+ 9ed200fcd3ffdb093cbce9b388ace22b3343f5d5 10340 libxcb-xvmc0-dbgsym_1.13.1-2_amd64.deb
+ 62b9446f13343870cb55c4b8ae0564cc094edaf3 102028 libxcb-xvmc0-dev_1.13.1-2_amd64.deb
+ b4feea0f61b928e75a900d2103c1de0715e8fc1f 12808 libxcb-xvmc0_1.13.1-2_amd64.deb
+ 9280c7ec0531b9777edc0ac0682dad26379de05d 159236 libxcb1-dbgsym_1.13.1-2_amd64.deb
+ 7268cd164392350e997ffdedab6809908414ac2a 937396 libxcb1-dev_1.13.1-2_amd64.deb
+ 06b114695b025acb5bfdbc891108b38643fe938d 100776 libxcb1-udeb_1.13.1-2_amd64.udeb
+ 7df018970481a0866eccb83033e2b8c43dfc3b49 111712 libxcb1_1.13.1-2_amd64.deb
+ 94a286ba0c26110af7cb9864902c15721dcb1601 28323 libxcb_1.13.1-2_amd64.buildinfo
+Checksums-Sha256:
+ 23ce88e2910c305e9050c37d119e706c8322e223d4963fd3b81c5ae4a28045fb 7520 libxcb-composite0-dbgsym_1.13.1-2_amd64.deb
+ ce92a6193efa99d18c0b0c27dda2c9f059ce824d854b1f9fe4202715c2eaa70c 97852 libxcb-composite0-dev_1.13.1-2_amd64.deb
+ 609aff94f5d20fd80c3ebf9a1038804b2e7cef533f839b37814e031efc7c7271 11660 libxcb-composite0_1.13.1-2_amd64.deb
+ 44070c39804b09321262ab639c53b16ba094a17926fa7267981b586adf34cc61 6564 libxcb-damage0-dbgsym_1.13.1-2_amd64.deb
+ 22be581111bb823bb00c109a6b1d5cb8098d209356fa1af1f60c3d29b676b627 95304 libxcb-damage0-dev_1.13.1-2_amd64.deb
+ bae360e4076c8b1e7f0b99ea0f8d1bca79c23f8848a0e3a151405fdf5da7d146 11364 libxcb-damage0_1.13.1-2_amd64.deb
+ 4f7e407d7e371af50fc03068d0853037f2555bf380e3ddcf542a42ef0fa3cec6 8988552 libxcb-doc_1.13.1-2_all.deb
+ 1540d5647807846f3e7dbb3ad4dfea9a3e582f84d7658c3d25e8c13a56879141 6928 libxcb-dpms0-dbgsym_1.13.1-2_amd64.deb
+ 7d9f124c2fb7824892be47658304a9701b25bbab20579dd5b163c0eba8674399 78976 libxcb-dpms0-dev_1.13.1-2_amd64.deb
+ 0c2b5465ae7c25a3035eb40ca686f3632cff25ddb0f1faaf2c2dc21c1810d5ea 11592 libxcb-dpms0_1.13.1-2_amd64.deb
+ bb6c811de8c9aa4986b6a7b4f358157d04a139519e05de8938d17db0a92b0ce3 11816 libxcb-dri2-0-dbgsym_1.13.1-2_amd64.deb
+ d86b4e102ddbcf60c25d0e61b3ed18a355409c053ca28db656e696c69ab2525d 101936 libxcb-dri2-0-dev_1.13.1-2_amd64.deb
+ 8b52e853f9b4a4dca88ab5b19abe38e8c52eb7632bd55e526603bc20032d79d4 13388 libxcb-dri2-0_1.13.1-2_amd64.deb
+ 0d1258fdbb0f7a11211ac879a39da237a7ebb57c56329ac21f7c4fedf7a7be05 11088 libxcb-dri3-0-dbgsym_1.13.1-2_amd64.deb
+ f50b7d1f03a2422e767e640d10b54eae69036d236b6761cfe2689e512fb64e27 13308 libxcb-dri3-0_1.13.1-2_amd64.deb
+ 537e44f6b2f31021fa8876528fb7104d34c117f0ff41c184edae172f72115ffc 96800 libxcb-dri3-dev_1.13.1-2_amd64.deb
+ 3b94ce29ed49caa303377f7767cbc41e8faeee2d20f7c860e7e7e79b13878166 54936 libxcb-glx0-dbgsym_1.13.1-2_amd64.deb
+ 50a56f4674cf604a4d944d6df49240ce798f53caa1524db819724ea1b840e144 297320 libxcb-glx0-dev_1.13.1-2_amd64.deb
+ 6957a28dd821ae8e6bcea7d81fcdcc68650f88b9b51a200e005aec552af7153a 28920 libxcb-glx0_1.13.1-2_amd64.deb
+ fc747f17e9d1110f0ead838866bafea8002432dd4a2febbaad0df69df72facda 123672 libxcb-present-dev_1.13.1-2_amd64.deb
+ 0331017653ab31e42b4b194a176432945d442dd5577a8bcf79d0ec19fbb8e548 8444 libxcb-present0-dbgsym_1.13.1-2_amd64.deb
+ d1083b23051eaf366b90a48a2e6ba0b604005d1ec62fc3687ee4bfb74935c9dd 12108 libxcb-present0_1.13.1-2_amd64.deb
+ fa43aff735685d0f0ae3afb1b3a8d4a7664beb34ddac7cb225dc19ab7f361ae4 38300 libxcb-randr0-dbgsym_1.13.1-2_amd64.deb
+ c0d217bf4e1b71ec0f7183d1e8dcd8bc51ae4280cc9210a8188ee9848d79fb38 227648 libxcb-randr0-dev_1.13.1-2_amd64.deb
+ 357e0219fc961ee62f27998ebea0f219c4bd96acc8408ea6c31f6c335cb2a9d5 23348 libxcb-randr0_1.13.1-2_amd64.deb
+ bfff26ac9a97110ac1d81bcfb7bb64e2b75bdd54c4787096d34f533313beaa97 11492 libxcb-record0-dbgsym_1.13.1-2_amd64.deb
+ 7ed3c745a356dc2b561d52c64d27881bceb2cf3aba49d6f9a07f68cc27396615 99772 libxcb-record0-dev_1.13.1-2_amd64.deb
+ 6842e684eb1722fecf2dd6010a3613db2932f07402e8cc4242bd04cb9d6901c5 13584 libxcb-record0_1.13.1-2_amd64.deb
+ 03fde584683012ad9e47939a4f543798d64b3754d0a622127385928756ca9b15 32488 libxcb-render0-dbgsym_1.13.1-2_amd64.deb
+ 508f6eb135bde7aa88b2be1dec83beef9b540fe1042dfd00b356cfb8ecb18af3 206668 libxcb-render0-dev_1.13.1-2_amd64.deb
+ 14121b24b7f4e84c7f85c7eec665254ea399109004386c8bf3905f9709d9e294 22924 libxcb-render0_1.13.1-2_amd64.deb
+ 4975e3f3e664f42928b184e247a9a52042be169462c07880691690b69e6c22c5 10412 libxcb-res0-dbgsym_1.13.1-2_amd64.deb
+ 1828785d476cfa6cf555913cfb4976db8992f3c81c4f8b5ffc6c83a9e92b3cae 94008 libxcb-res0-dev_1.13.1-2_amd64.deb
+ e7d9c01f7175ab49501ad1df1e0c3dc8aef1f2d861c1a8f4bb51cf6b82f579af 13148 libxcb-res0_1.13.1-2_amd64.deb
+ 49d8eeb596230ca205107a874cc04e66b8081fad30732bfbc5fdfd2c39ed84d5 9696 libxcb-screensaver0-dbgsym_1.13.1-2_amd64.deb
+ ab0cd77af0d032bed18956f8f06967043f6450709d7ec1b2219fa8ee2ca647dd 96900 libxcb-screensaver0-dev_1.13.1-2_amd64.deb
+ 34d57805a6fe0fb816d95f850a42b711b67a1602b0e884cc6e40cb0cd9c52ed3 13172 libxcb-screensaver0_1.13.1-2_amd64.deb
+ ec2c6b4de150bb93cabb0f03d5279351e062472d769c6ca476e0ea983899227e 9508 libxcb-shape0-dbgsym_1.13.1-2_amd64.deb
+ 9bd83f5544bef9797fdffd488578b4119d3b989c60a7127b4a51c4d99784e4b5 91280 libxcb-shape0-dev_1.13.1-2_amd64.deb
+ d22ab4fbf6af8317ef7661b9f63a866c371266322bf1cb6971c9ed3619997278 12456 libxcb-shape0_1.13.1-2_amd64.deb
+ 7146d105c5253ddeb6460d9187c557a6c5a77898052db6634aacdfdd5938d562 8748 libxcb-shm0-dbgsym_1.13.1-2_amd64.deb
+ 0303e82cb4d12c717d75780b21366a3e4cf3b2c583b8c542f719da6cb4998129 87276 libxcb-shm0-dev_1.13.1-2_amd64.deb
+ 8526a6ea396ccc2764d19d607a2bdf31103eb67ffc375bf3a151efb0fee1b1e2 12068 libxcb-shm0_1.13.1-2_amd64.deb
+ e4489e37271b6c78c7a9babb4d1bc6214aab8098eae1659fd659831d69b19e00 126468 libxcb-sync-dev_1.13.1-2_amd64.deb
+ b8bf57059b33c9fa0a5c4da0f7e2892254090d2b0d734ed8d32f75ede1f888a4 16220 libxcb-sync1-dbgsym_1.13.1-2_amd64.deb
+ 5275b90d395aa1e012a11873957c45401fb62371c165cd1d6c29d234bc864eb3 15812 libxcb-sync1_1.13.1-2_amd64.deb
+ e34d8bd66359ae0cfe4d77f71738662f063ed25a5abef0520a19cf1a3a0f44a0 10544 libxcb-xf86dri0-dbgsym_1.13.1-2_amd64.deb
+ 1c0e7ba359c90dbc72a71acd0f3ede275741b5f654a2cde6a2fc0e673ce10c10 94328 libxcb-xf86dri0-dev_1.13.1-2_amd64.deb
+ db178322f2c0c986733030d3a21083f8bde2d049dbdd708796db5afab1f270b2 12988 libxcb-xf86dri0_1.13.1-2_amd64.deb
+ bb74e0d56fa5eb773fc82f95526ec1a1102fb7a7d7c751b919b7ef35923a512c 17488 libxcb-xfixes0-dbgsym_1.13.1-2_amd64.deb
+ f6b42bac77b81badab8d3d47032f55a496426e6efa80c110a9d8e902bce15811 143820 libxcb-xfixes0-dev_1.13.1-2_amd64.deb
+ 44c5b38d7067f82ff4ea88ca751769442a8b0b91860d33614a376cb65373a5e5 15668 libxcb-xfixes0_1.13.1-2_amd64.deb
+ 1a4154b478f83e13753e8a452adc78911d0a76c5998142df8805c97e53ed97f8 7476 libxcb-xinerama0-dbgsym_1.13.1-2_amd64.deb
+ 51dc45dc63f9ce7d560a4d3578f9503fe4df1b3d4178e3350a5b2fcfdeaa5ec6 80812 libxcb-xinerama0-dev_1.13.1-2_amd64.deb
+ 62df6b09c0b453af3846f4069bcae9d40fb5df269393a017645e92d802c37aef 11772 libxcb-xinerama0_1.13.1-2_amd64.deb
+ 5c503f6bbe9ebfdd3779d803810a8c34c3463a131e544c63fef9fab3f4d94905 516520 libxcb-xinput-dev_1.13.1-2_amd64.deb
+ 96d6346bc9b1229e4a5adbcc3035404ba7128a26c526e39a6b14191aa8f3907a 91684 libxcb-xinput0-dbgsym_1.13.1-2_amd64.deb
+ bdb93be2431697888ab6089f4cb9051bace09ce5924409189a81f754f00570e7 44272 libxcb-xinput0_1.13.1-2_amd64.deb
+ 7f81bcae6ed009211a5446d980d128a911c5ed95ada6bc822ffd0b1f2275a0f6 434072 libxcb-xkb-dev_1.13.1-2_amd64.deb
+ d9c6895d9d1b6a7da64cf5f389619454bf6c5c2498965817073f463021848304 71764 libxcb-xkb1-dbgsym_1.13.1-2_amd64.deb
+ 0dfb2097420c8232f7876a7208e945387b8481043567d288aa46d2e50c4c8733 46320 libxcb-xkb1_1.13.1-2_amd64.deb
+ b6664db3c1fd71abaf76888405e3c5e527eb1c99099beb4864f0aa4a9cf44ea1 6552 libxcb-xtest0-dbgsym_1.13.1-2_amd64.deb
+ f561b0fe56c2cac8bf4069a96aa3c1c7f9027627e2bfa58a4967254f0076c111 76776 libxcb-xtest0-dev_1.13.1-2_amd64.deb
+ bcb8a803a21437529fe90478ba7443c6bcc96c1308b2cf69fc3fb34c52b3c0e1 11412 libxcb-xtest0_1.13.1-2_amd64.deb
+ 23511008c4ff28fb2c7aa4650400d0c6bc7b16e3f2de37fe2953ae169e527e64 19152 libxcb-xv0-dbgsym_1.13.1-2_amd64.deb
+ c7bd3254e9d2cfa0dd23b0c00fc17584d7d5f1d17f1d7d12e8a498011a9e4995 135188 libxcb-xv0-dev_1.13.1-2_amd64.deb
+ ccebbe315dbd49c6298c17fc8c39de3f43ef445daf81f1c8235c887e414dbd96 16288 libxcb-xv0_1.13.1-2_amd64.deb
+ f743b45ae93f7589ebcf0f3b0173c3d4c2bff402544923a7303ec653857fa562 10340 libxcb-xvmc0-dbgsym_1.13.1-2_amd64.deb
+ 498766d67526b3f2335d0b4264d2f9629f66c05e5bdf82d079f8ca7ceb09e59a 102028 libxcb-xvmc0-dev_1.13.1-2_amd64.deb
+ e3b40f7964bcf680e9d567ed1a552d6f1ef17c84d2b813b5949cc56357537b5e 12808 libxcb-xvmc0_1.13.1-2_amd64.deb
+ 455339f1cafbd2d4e935a04f536e5a9b8e2934a5a60f6a4ad237c2385934a2f2 159236 libxcb1-dbgsym_1.13.1-2_amd64.deb
+ 923560c0dab7f0e2418a45b06b2e6107067fd6e26773ab023215c6d7708b76c9 937396 libxcb1-dev_1.13.1-2_amd64.deb
+ a1d1bf60943f8e894279de72f555935f9d3b71f9f66c2a210e7a6f833d033efa 100776 libxcb1-udeb_1.13.1-2_amd64.udeb
+ 3fc74a6b13328035c2e4e32b9da62c88695905b9fbbacc673597a6c097837066 111712 libxcb1_1.13.1-2_amd64.deb
+ ef6da468d4ea44c1a980a1bfbd1b43d2b79ce87f79ca56933a6b44dbe472e852 28323 libxcb_1.13.1-2_amd64.buildinfo
+Files:
+ ac59a6173a7db08187e2f6c149926722 7520 debug optional libxcb-composite0-dbgsym_1.13.1-2_amd64.deb
+ ba4ec49356e898d9881f9565aed80a1a 97852 libdevel optional libxcb-composite0-dev_1.13.1-2_amd64.deb
+ 93869f5c275950e64b7ac66198762a37 11660 libs optional libxcb-composite0_1.13.1-2_amd64.deb
+ f6c2c7897406e79e082e5e078f3df849 6564 debug optional libxcb-damage0-dbgsym_1.13.1-2_amd64.deb
+ d85235bb7bf61da5c681992c600ffe99 95304 libdevel optional libxcb-damage0-dev_1.13.1-2_amd64.deb
+ 9337575d7ca08cf1ebc6bb2df764552d 11364 libs optional libxcb-damage0_1.13.1-2_amd64.deb
+ ee902cc7b58c65571c5080b0c59f196b 8988552 doc optional libxcb-doc_1.13.1-2_all.deb
+ 959dccf24410a268a90ba026d4be0607 6928 debug optional libxcb-dpms0-dbgsym_1.13.1-2_amd64.deb
+ a4c67121b97e57fabbd9ec18811d09da 78976 libdevel optional libxcb-dpms0-dev_1.13.1-2_amd64.deb
+ e012bd09649e099982e6ee30f6bfc744 11592 libs optional libxcb-dpms0_1.13.1-2_amd64.deb
+ 6603a36eb37c58aa8dae2a12b0bfe711 11816 debug optional libxcb-dri2-0-dbgsym_1.13.1-2_amd64.deb
+ fa3f508283d064c410aa45bb9051d639 101936 libdevel optional libxcb-dri2-0-dev_1.13.1-2_amd64.deb
+ 3ffee84c3ddd42470e4c504d0d1aa5c7 13388 libs optional libxcb-dri2-0_1.13.1-2_amd64.deb
+ 66735117a70a986913c814be00883e2b 11088 debug optional libxcb-dri3-0-dbgsym_1.13.1-2_amd64.deb
+ ba8c9dfc9de892b652c77a70285a5d92 13308 libs optional libxcb-dri3-0_1.13.1-2_amd64.deb
+ d394b4b6ebda47e6822891a143155bf8 96800 libdevel optional libxcb-dri3-dev_1.13.1-2_amd64.deb
+ 275c64b16cb8302b13a400edb108e664 54936 debug optional libxcb-glx0-dbgsym_1.13.1-2_amd64.deb
+ d9ac955111e714cd4de5a3b6bdc0ad34 297320 libdevel optional libxcb-glx0-dev_1.13.1-2_amd64.deb
+ 1890c3068c7bd945715d9a1fcfca7ae4 28920 libs optional libxcb-glx0_1.13.1-2_amd64.deb
+ 90366c991386e6473459a3e0e79db1d7 123672 libdevel optional libxcb-present-dev_1.13.1-2_amd64.deb
+ 2e2f4ef719110bcf1d2fed54d7d5424f 8444 debug optional libxcb-present0-dbgsym_1.13.1-2_amd64.deb
+ 456c0890576d1e131b18e56d95e7a724 12108 libs optional libxcb-present0_1.13.1-2_amd64.deb
+ fc36d851950af874313860cbc7d0305e 38300 debug optional libxcb-randr0-dbgsym_1.13.1-2_amd64.deb
+ 2d41200220aac917105e556da3ff2500 227648 libdevel optional libxcb-randr0-dev_1.13.1-2_amd64.deb
+ e287899bad17fba35c1ad6dc23c125a3 23348 libs optional libxcb-randr0_1.13.1-2_amd64.deb
+ 96a2620c37877ae6e56c942341ed920c 11492 debug optional libxcb-record0-dbgsym_1.13.1-2_amd64.deb
+ 7fbf358b28c6f4eecfd9fcd767cc36be 99772 libdevel optional libxcb-record0-dev_1.13.1-2_amd64.deb
+ e14025a3f29276babd17d7c31849f61a 13584 libs optional libxcb-record0_1.13.1-2_amd64.deb
+ c26dd1825ad44a68ca7ffdd18ce207a1 32488 debug optional libxcb-render0-dbgsym_1.13.1-2_amd64.deb
+ 39e62f8f129e88b8be9bbee2298a6bfb 206668 libdevel optional libxcb-render0-dev_1.13.1-2_amd64.deb
+ 13226064315755740cce5bcab37ad702 22924 libs optional libxcb-render0_1.13.1-2_amd64.deb
+ 0c268cfec93c380f0e47951d5076e76d 10412 debug optional libxcb-res0-dbgsym_1.13.1-2_amd64.deb
+ 4dfce73940fd19dba9dff3ee8732de60 94008 libdevel optional libxcb-res0-dev_1.13.1-2_amd64.deb
+ c38362a8df6651844b24c1779b08e9d6 13148 libs optional libxcb-res0_1.13.1-2_amd64.deb
+ f6e52f352409ef2866a9bef8f95a7ef3 9696 debug optional libxcb-screensaver0-dbgsym_1.13.1-2_amd64.deb
+ 5566e28846d020abb59dfd59d0457af9 96900 libdevel optional libxcb-screensaver0-dev_1.13.1-2_amd64.deb
+ 15248842f09233093bfb1ab148e21290 13172 libs optional libxcb-screensaver0_1.13.1-2_amd64.deb
+ 5ebfa505d1331f8538f1192fa6443685 9508 debug optional libxcb-shape0-dbgsym_1.13.1-2_amd64.deb
+ 73e7f29e63cd66335fe5788640f1e31f 91280 libdevel optional libxcb-shape0-dev_1.13.1-2_amd64.deb
+ 602ed9cfabddb9fe5f669f9316281af9 12456 libs optional libxcb-shape0_1.13.1-2_amd64.deb
+ c3cec65f02b807268c786d16ab7e3f46 8748 debug optional libxcb-shm0-dbgsym_1.13.1-2_amd64.deb
+ 5979668b6867c40fd62953ac434fc362 87276 libdevel optional libxcb-shm0-dev_1.13.1-2_amd64.deb
+ 3d9de613acf5902be1bda9e554b40ef5 12068 libs optional libxcb-shm0_1.13.1-2_amd64.deb
+ d3aa4c19b8609b449461df2717a96942 126468 libdevel optional libxcb-sync-dev_1.13.1-2_amd64.deb
+ 6253cf096615176f652945eea845e744 16220 debug optional libxcb-sync1-dbgsym_1.13.1-2_amd64.deb
+ 0cfdea362553f5d1fe80c7ef6b63dcc8 15812 libs optional libxcb-sync1_1.13.1-2_amd64.deb
+ 71516aac6b993e32d6d7ac0ffd31f79b 10544 debug optional libxcb-xf86dri0-dbgsym_1.13.1-2_amd64.deb
+ c26a45d0236cd6db783aa4f83d17f3ae 94328 libdevel optional libxcb-xf86dri0-dev_1.13.1-2_amd64.deb
+ b444356d6155a03d540ac1b660605e9f 12988 libs optional libxcb-xf86dri0_1.13.1-2_amd64.deb
+ 73dfce0120b256ad75c257a4fdeffd7c 17488 debug optional libxcb-xfixes0-dbgsym_1.13.1-2_amd64.deb
+ 041b8b4dde989d960f946e630a4261d7 143820 libdevel optional libxcb-xfixes0-dev_1.13.1-2_amd64.deb
+ 75e119d4ab5c875df753a0458c14c76e 15668 libs optional libxcb-xfixes0_1.13.1-2_amd64.deb
+ 6aa36b025787b41e9845de053fd9de0f 7476 debug optional libxcb-xinerama0-dbgsym_1.13.1-2_amd64.deb
+ b5418f54f576b7f06bccd490105224f5 80812 libdevel optional libxcb-xinerama0-dev_1.13.1-2_amd64.deb
+ 55ae69bfc62f8fecf9397fbdd322b325 11772 libs optional libxcb-xinerama0_1.13.1-2_amd64.deb
+ d263553cac293067cb5bf014e722410d 516520 libdevel optional libxcb-xinput-dev_1.13.1-2_amd64.deb
+ e2c721603d38228b54bfde2590035e5a 91684 debug optional libxcb-xinput0-dbgsym_1.13.1-2_amd64.deb
+ 0d23710455e7327dc641001bfd622c35 44272 libs optional libxcb-xinput0_1.13.1-2_amd64.deb
+ 395b7d574066bdcf104a4265ccea576a 434072 libdevel optional libxcb-xkb-dev_1.13.1-2_amd64.deb
+ c3eb5a41d737526c8c91b0df75877f7f 71764 debug optional libxcb-xkb1-dbgsym_1.13.1-2_amd64.deb
+ 0caa1d8d6ad1024c50af922da02dbe7e 46320 libs optional libxcb-xkb1_1.13.1-2_amd64.deb
+ a39b47ce92d93f00240b917868f01a20 6552 debug optional libxcb-xtest0-dbgsym_1.13.1-2_amd64.deb
+ 6334d74287b566092fa825f63d8a7ce3 76776 libdevel optional libxcb-xtest0-dev_1.13.1-2_amd64.deb
+ 1f84d4453e61a48c6aa62bd1b286e7dd 11412 libs optional libxcb-xtest0_1.13.1-2_amd64.deb
+ 3f66ffb2c01a0bb6bd0349e86ad8b0be 19152 debug optional libxcb-xv0-dbgsym_1.13.1-2_amd64.deb
+ 1e3a3c88aa2cad96ef2925248425b612 135188 libdevel optional libxcb-xv0-dev_1.13.1-2_amd64.deb
+ bdc45cf0dfb0fd063e89d7b8a344fa01 16288 libs optional libxcb-xv0_1.13.1-2_amd64.deb
+ 65ebc03f30a68c43d5f582d3598f556d 10340 debug optional libxcb-xvmc0-dbgsym_1.13.1-2_amd64.deb
+ 8256ebec9d2e23f91c8258e8821fa54f 102028 libdevel optional libxcb-xvmc0-dev_1.13.1-2_amd64.deb
+ 49adbfd328d89451c85bcc254193862e 12808 libs optional libxcb-xvmc0_1.13.1-2_amd64.deb
+ d519f0941f00932062ea77b05208f0dd 159236 debug optional libxcb1-dbgsym_1.13.1-2_amd64.deb
+ d6353bf24eca6c7870b5f764c2952610 937396 libdevel optional libxcb1-dev_1.13.1-2_amd64.deb
+ 4a83faca6c7ab4a666f64deffee5c4cc 100776 debian-installer optional libxcb1-udeb_1.13.1-2_amd64.udeb
+ acac27849929e91dd14287b5662171f8 111712 libs optional libxcb1_1.13.1-2_amd64.deb
+ d7891c474f79e2a6b41cad63fa7a4601 28323 libdevel optional libxcb_1.13.1-2_amd64.buildinfo

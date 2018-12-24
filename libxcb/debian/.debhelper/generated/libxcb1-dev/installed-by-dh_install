@@ -1,0 +1,8 @@
+debian/tmp/usr/include/xcb/bigreq.h
+debian/tmp/usr/include/xcb/xc_misc.h
+debian/tmp/usr/include/xcb/xcb.h
+debian/tmp/usr/include/xcb/xcbext.h
+debian/tmp/usr/include/xcb/xproto.h
+debian/tmp/usr/lib/x86_64-linux-gnu/libxcb.a
+debian/tmp/usr/lib/x86_64-linux-gnu/libxcb.so
+debian/tmp/usr/lib/x86_64-linux-gnu/pkgconfig/xcb.pc

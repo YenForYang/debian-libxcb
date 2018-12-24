@@ -1,0 +1,4 @@
+debian/tmp/usr/include/xcb/record.h
+debian/tmp/usr/lib/x86_64-linux-gnu/libxcb-record.a
+debian/tmp/usr/lib/x86_64-linux-gnu/libxcb-record.so
+debian/tmp/usr/lib/x86_64-linux-gnu/pkgconfig/xcb-record.pc

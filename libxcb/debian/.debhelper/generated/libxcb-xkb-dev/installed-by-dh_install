@@ -1,0 +1,4 @@
+debian/tmp/usr/include/xcb/xkb.h
+debian/tmp/usr/lib/x86_64-linux-gnu/libxcb-xkb.a
+debian/tmp/usr/lib/x86_64-linux-gnu/libxcb-xkb.so
+debian/tmp/usr/lib/x86_64-linux-gnu/pkgconfig/xcb-xkb.pc

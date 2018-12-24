@@ -1,0 +1,4 @@
+debian/tmp/usr/include/xcb/present.h
+debian/tmp/usr/lib/x86_64-linux-gnu/libxcb-present.a
+debian/tmp/usr/lib/x86_64-linux-gnu/libxcb-present.so
+debian/tmp/usr/lib/x86_64-linux-gnu/pkgconfig/xcb-present.pc

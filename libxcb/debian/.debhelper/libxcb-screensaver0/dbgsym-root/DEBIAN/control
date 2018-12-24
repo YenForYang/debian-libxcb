@@ -1,0 +1,13 @@
+Package: libxcb-screensaver0-dbgsym
+Source: libxcb
+Version: 1.13.1-2
+Auto-Built-Package: debug-symbols
+Architecture: amd64
+Maintainer: Debian X Strike Force <debian-x@lists.debian.org>
+Installed-Size: 25
+Depends: libxcb-screensaver0 (= 1.13.1-2)
+Section: debug
+Priority: optional
+Multi-Arch: same
+Description: debug symbols for libxcb-screensaver0
+Build-Ids: 51b1bbcb911d49e5f0afe1bd985a03402daa4c27

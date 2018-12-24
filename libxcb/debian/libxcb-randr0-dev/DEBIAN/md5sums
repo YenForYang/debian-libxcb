@@ -1,0 +1,5 @@
+f75d5c904ca27998a214464cc0dc6417  usr/include/xcb/randr.h
+69ad56f3874433bf8c684c18cbff5301  usr/lib/x86_64-linux-gnu/libxcb-randr.a
+783c80be62aa0269702d3d77f17e2d85  usr/lib/x86_64-linux-gnu/pkgconfig/xcb-randr.pc
+7c16d514083ac8d54e07d73ce5e61315  usr/share/doc/libxcb-randr0-dev/changelog.Debian.gz
+618ee90893b45d0d0c19d41a3a3d2e7d  usr/share/doc/libxcb-randr0-dev/copyright

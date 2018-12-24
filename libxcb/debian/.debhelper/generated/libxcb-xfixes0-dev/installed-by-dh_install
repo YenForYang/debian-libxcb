@@ -1,0 +1,4 @@
+debian/tmp/usr/include/xcb/xfixes.h
+debian/tmp/usr/lib/x86_64-linux-gnu/libxcb-xfixes.a
+debian/tmp/usr/lib/x86_64-linux-gnu/libxcb-xfixes.so
+debian/tmp/usr/lib/x86_64-linux-gnu/pkgconfig/xcb-xfixes.pc

@@ -1,0 +1,5 @@
+7016f98490a4517732e4127a6245883e  usr/include/xcb/xvmc.h
+f2d3870ac2f2509cfad0727ec7e01301  usr/lib/x86_64-linux-gnu/libxcb-xvmc.a
+00752095dddc8ae19d4245eda68abbcb  usr/lib/x86_64-linux-gnu/pkgconfig/xcb-xvmc.pc
+7c16d514083ac8d54e07d73ce5e61315  usr/share/doc/libxcb-xvmc0-dev/changelog.Debian.gz
+618ee90893b45d0d0c19d41a3a3d2e7d  usr/share/doc/libxcb-xvmc0-dev/copyright

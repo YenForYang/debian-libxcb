@@ -1,0 +1,4 @@
+debian/tmp/usr/include/xcb/xf86dri.h
+debian/tmp/usr/lib/x86_64-linux-gnu/libxcb-xf86dri.a
+debian/tmp/usr/lib/x86_64-linux-gnu/libxcb-xf86dri.so
+debian/tmp/usr/lib/x86_64-linux-gnu/pkgconfig/xcb-xf86dri.pc

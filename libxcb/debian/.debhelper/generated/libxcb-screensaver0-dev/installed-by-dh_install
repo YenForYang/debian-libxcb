@@ -1,0 +1,4 @@
+debian/tmp/usr/include/xcb/screensaver.h
+debian/tmp/usr/lib/x86_64-linux-gnu/libxcb-screensaver.a
+debian/tmp/usr/lib/x86_64-linux-gnu/libxcb-screensaver.so
+debian/tmp/usr/lib/x86_64-linux-gnu/pkgconfig/xcb-screensaver.pc

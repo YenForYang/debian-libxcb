@@ -1,0 +1,5 @@
+d6ef7dbb1342617342b18d01b57b3bba  usr/include/xcb/res.h
+27c831876b446d326a2da8effd1dea66  usr/lib/x86_64-linux-gnu/libxcb-res.a
+11d058410d7b1268d6afe8f17bb03808  usr/lib/x86_64-linux-gnu/pkgconfig/xcb-res.pc
+7c16d514083ac8d54e07d73ce5e61315  usr/share/doc/libxcb-res0-dev/changelog.Debian.gz
+618ee90893b45d0d0c19d41a3a3d2e7d  usr/share/doc/libxcb-res0-dev/copyright

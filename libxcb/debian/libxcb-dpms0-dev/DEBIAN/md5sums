@@ -1,0 +1,5 @@
+86005424aff7aea79daeb7370449fbe8  usr/include/xcb/dpms.h
+c79c96228cf59beea8854ff77781eb1d  usr/lib/x86_64-linux-gnu/libxcb-dpms.a
+4fd84c710ad3b4b94648f1e0ae245558  usr/lib/x86_64-linux-gnu/pkgconfig/xcb-dpms.pc
+7c16d514083ac8d54e07d73ce5e61315  usr/share/doc/libxcb-dpms0-dev/changelog.Debian.gz
+618ee90893b45d0d0c19d41a3a3d2e7d  usr/share/doc/libxcb-dpms0-dev/copyright

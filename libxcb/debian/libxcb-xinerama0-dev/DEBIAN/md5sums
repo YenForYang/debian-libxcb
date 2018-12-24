@@ -1,0 +1,5 @@
+98364caecc4a93b67a01aadd99692953  usr/include/xcb/xinerama.h
+e449dff8234fc821f79e522929f68c98  usr/lib/x86_64-linux-gnu/libxcb-xinerama.a
+a95036d1f6c4527e50009afbc565afb5  usr/lib/x86_64-linux-gnu/pkgconfig/xcb-xinerama.pc
+7c16d514083ac8d54e07d73ce5e61315  usr/share/doc/libxcb-xinerama0-dev/changelog.Debian.gz
+618ee90893b45d0d0c19d41a3a3d2e7d  usr/share/doc/libxcb-xinerama0-dev/copyright

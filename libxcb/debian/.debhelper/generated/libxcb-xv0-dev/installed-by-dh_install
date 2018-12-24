@@ -1,0 +1,4 @@
+debian/tmp/usr/include/xcb/xv.h
+debian/tmp/usr/lib/x86_64-linux-gnu/libxcb-xv.a
+debian/tmp/usr/lib/x86_64-linux-gnu/libxcb-xv.so
+debian/tmp/usr/lib/x86_64-linux-gnu/pkgconfig/xcb-xv.pc

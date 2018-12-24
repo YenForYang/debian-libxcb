@@ -1,0 +1,13 @@
+Package: libxcb-sync1-dbgsym
+Source: libxcb
+Version: 1.13.1-2
+Auto-Built-Package: debug-symbols
+Architecture: amd64
+Maintainer: Debian X Strike Force <debian-x@lists.debian.org>
+Installed-Size: 35
+Depends: libxcb-sync1 (= 1.13.1-2)
+Section: debug
+Priority: optional
+Multi-Arch: same
+Description: debug symbols for libxcb-sync1
+Build-Ids: 89566e4360f7113874ba838a0c4b8350b5ef7a67

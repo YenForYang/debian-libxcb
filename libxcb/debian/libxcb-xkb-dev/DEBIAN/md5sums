@@ -1,0 +1,5 @@
+7405e144099089ffc05eae2f1203c1d1  usr/include/xcb/xkb.h
+42db9559b7e2ec83a19baaeb59f45df5  usr/lib/x86_64-linux-gnu/libxcb-xkb.a
+3e8a16787ef6cc8303821e3dd5e27270  usr/lib/x86_64-linux-gnu/pkgconfig/xcb-xkb.pc
+7c16d514083ac8d54e07d73ce5e61315  usr/share/doc/libxcb-xkb-dev/changelog.Debian.gz
+618ee90893b45d0d0c19d41a3a3d2e7d  usr/share/doc/libxcb-xkb-dev/copyright

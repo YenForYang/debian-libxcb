@@ -1,0 +1,5 @@
+fa12f8bf99257425bdf96bd35a52d7bb  usr/include/xcb/xinput.h
+521685291a504ddef5c02c58c33d95d1  usr/lib/x86_64-linux-gnu/libxcb-xinput.a
+ae5458e9a3bb1c4de3ff8197a28fa6d9  usr/lib/x86_64-linux-gnu/pkgconfig/xcb-xinput.pc
+7c16d514083ac8d54e07d73ce5e61315  usr/share/doc/libxcb-xinput-dev/changelog.Debian.gz
+618ee90893b45d0d0c19d41a3a3d2e7d  usr/share/doc/libxcb-xinput-dev/copyright

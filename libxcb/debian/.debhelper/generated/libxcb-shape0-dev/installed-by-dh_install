@@ -1,0 +1,4 @@
+debian/tmp/usr/include/xcb/shape.h
+debian/tmp/usr/lib/x86_64-linux-gnu/libxcb-shape.a
+debian/tmp/usr/lib/x86_64-linux-gnu/libxcb-shape.so
+debian/tmp/usr/lib/x86_64-linux-gnu/pkgconfig/xcb-shape.pc

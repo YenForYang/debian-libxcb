@@ -1,0 +1,5 @@
+2bd4e4ad52f595a536796110376200f4  usr/include/xcb/damage.h
+d4a4cf2b9d100e855d958615fc0e2a67  usr/lib/x86_64-linux-gnu/libxcb-damage.a
+c977ea8b27cac7193a6d7dae42bab64a  usr/lib/x86_64-linux-gnu/pkgconfig/xcb-damage.pc
+7c16d514083ac8d54e07d73ce5e61315  usr/share/doc/libxcb-damage0-dev/changelog.Debian.gz
+618ee90893b45d0d0c19d41a3a3d2e7d  usr/share/doc/libxcb-damage0-dev/copyright

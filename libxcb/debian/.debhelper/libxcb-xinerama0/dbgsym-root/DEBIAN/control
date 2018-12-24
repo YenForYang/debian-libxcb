@@ -1,0 +1,13 @@
+Package: libxcb-xinerama0-dbgsym
+Source: libxcb
+Version: 1.13.1-2
+Auto-Built-Package: debug-symbols
+Architecture: amd64
+Maintainer: Debian X Strike Force <debian-x@lists.debian.org>
+Installed-Size: 22
+Depends: libxcb-xinerama0 (= 1.13.1-2)
+Section: debug
+Priority: optional
+Multi-Arch: same
+Description: debug symbols for libxcb-xinerama0
+Build-Ids: 74ddd4bba8608e19606b404287f81239a821adfd

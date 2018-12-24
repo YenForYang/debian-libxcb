@@ -1,0 +1,4 @@
+debian/tmp/usr/include/xcb/res.h
+debian/tmp/usr/lib/x86_64-linux-gnu/libxcb-res.a
+debian/tmp/usr/lib/x86_64-linux-gnu/libxcb-res.so
+debian/tmp/usr/lib/x86_64-linux-gnu/pkgconfig/xcb-res.pc

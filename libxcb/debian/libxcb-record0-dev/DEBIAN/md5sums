@@ -1,0 +1,5 @@
+1ee07a18faba9bb545ff66a33ea6ca10  usr/include/xcb/record.h
+b2b8b2ac712e53228d90f1f3a1fb7f9a  usr/lib/x86_64-linux-gnu/libxcb-record.a
+3b82f1ac99c9ac00ee24d7df4f0ab39a  usr/lib/x86_64-linux-gnu/pkgconfig/xcb-record.pc
+7c16d514083ac8d54e07d73ce5e61315  usr/share/doc/libxcb-record0-dev/changelog.Debian.gz
+618ee90893b45d0d0c19d41a3a3d2e7d  usr/share/doc/libxcb-record0-dev/copyright

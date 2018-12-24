@@ -1,0 +1,4 @@
+debian/tmp/usr/include/xcb/render.h
+debian/tmp/usr/lib/x86_64-linux-gnu/libxcb-render.a
+debian/tmp/usr/lib/x86_64-linux-gnu/libxcb-render.so
+debian/tmp/usr/lib/x86_64-linux-gnu/pkgconfig/xcb-render.pc

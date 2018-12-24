@@ -1,0 +1,4 @@
+debian/tmp/usr/include/xcb/xtest.h
+debian/tmp/usr/lib/x86_64-linux-gnu/libxcb-xtest.a
+debian/tmp/usr/lib/x86_64-linux-gnu/libxcb-xtest.so
+debian/tmp/usr/lib/x86_64-linux-gnu/pkgconfig/xcb-xtest.pc

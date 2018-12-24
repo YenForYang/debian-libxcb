@@ -1,0 +1,13 @@
+Package: libxcb-present0-dbgsym
+Source: libxcb
+Version: 1.13.1-2
+Auto-Built-Package: debug-symbols
+Architecture: amd64
+Maintainer: Debian X Strike Force <debian-x@lists.debian.org>
+Installed-Size: 23
+Depends: libxcb-present0 (= 1.13.1-2)
+Section: debug
+Priority: optional
+Multi-Arch: same
+Description: debug symbols for libxcb-present0
+Build-Ids: f67109abd6505c146746c253d23835d80aadd631

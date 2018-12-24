@@ -1,0 +1,4 @@
+debian/tmp/usr/include/xcb/sync.h
+debian/tmp/usr/lib/x86_64-linux-gnu/libxcb-sync.a
+debian/tmp/usr/lib/x86_64-linux-gnu/libxcb-sync.so
+debian/tmp/usr/lib/x86_64-linux-gnu/pkgconfig/xcb-sync.pc

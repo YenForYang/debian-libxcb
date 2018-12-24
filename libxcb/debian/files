@@ -1,0 +1,75 @@
+libxcb-composite0-dbgsym_1.13.1-2_amd64.deb debug optional automatic=yes
+libxcb-composite0-dev_1.13.1-2_amd64.deb libdevel optional
+libxcb-composite0_1.13.1-2_amd64.deb libs optional
+libxcb-damage0-dbgsym_1.13.1-2_amd64.deb debug optional automatic=yes
+libxcb-damage0-dev_1.13.1-2_amd64.deb libdevel optional
+libxcb-damage0_1.13.1-2_amd64.deb libs optional
+libxcb-doc_1.13.1-2_all.deb doc optional
+libxcb-dpms0-dbgsym_1.13.1-2_amd64.deb debug optional automatic=yes
+libxcb-dpms0-dev_1.13.1-2_amd64.deb libdevel optional
+libxcb-dpms0_1.13.1-2_amd64.deb libs optional
+libxcb-dri2-0-dbgsym_1.13.1-2_amd64.deb debug optional automatic=yes
+libxcb-dri2-0-dev_1.13.1-2_amd64.deb libdevel optional
+libxcb-dri2-0_1.13.1-2_amd64.deb libs optional
+libxcb-dri3-0-dbgsym_1.13.1-2_amd64.deb debug optional automatic=yes
+libxcb-dri3-0_1.13.1-2_amd64.deb libs optional
+libxcb-dri3-dev_1.13.1-2_amd64.deb libdevel optional
+libxcb-glx0-dbgsym_1.13.1-2_amd64.deb debug optional automatic=yes
+libxcb-glx0-dev_1.13.1-2_amd64.deb libdevel optional
+libxcb-glx0_1.13.1-2_amd64.deb libs optional
+libxcb-present-dev_1.13.1-2_amd64.deb libdevel optional
+libxcb-present0-dbgsym_1.13.1-2_amd64.deb debug optional automatic=yes
+libxcb-present0_1.13.1-2_amd64.deb libs optional
+libxcb-randr0-dbgsym_1.13.1-2_amd64.deb debug optional automatic=yes
+libxcb-randr0-dev_1.13.1-2_amd64.deb libdevel optional
+libxcb-randr0_1.13.1-2_amd64.deb libs optional
+libxcb-record0-dbgsym_1.13.1-2_amd64.deb debug optional automatic=yes
+libxcb-record0-dev_1.13.1-2_amd64.deb libdevel optional
+libxcb-record0_1.13.1-2_amd64.deb libs optional
+libxcb-render0-dbgsym_1.13.1-2_amd64.deb debug optional automatic=yes
+libxcb-render0-dev_1.13.1-2_amd64.deb libdevel optional
+libxcb-render0_1.13.1-2_amd64.deb libs optional
+libxcb-res0-dbgsym_1.13.1-2_amd64.deb debug optional automatic=yes
+libxcb-res0-dev_1.13.1-2_amd64.deb libdevel optional
+libxcb-res0_1.13.1-2_amd64.deb libs optional
+libxcb-screensaver0-dbgsym_1.13.1-2_amd64.deb debug optional automatic=yes
+libxcb-screensaver0-dev_1.13.1-2_amd64.deb libdevel optional
+libxcb-screensaver0_1.13.1-2_amd64.deb libs optional
+libxcb-shape0-dbgsym_1.13.1-2_amd64.deb debug optional automatic=yes
+libxcb-shape0-dev_1.13.1-2_amd64.deb libdevel optional
+libxcb-shape0_1.13.1-2_amd64.deb libs optional
+libxcb-shm0-dbgsym_1.13.1-2_amd64.deb debug optional automatic=yes
+libxcb-shm0-dev_1.13.1-2_amd64.deb libdevel optional
+libxcb-shm0_1.13.1-2_amd64.deb libs optional
+libxcb-sync-dev_1.13.1-2_amd64.deb libdevel optional
+libxcb-sync1-dbgsym_1.13.1-2_amd64.deb debug optional automatic=yes
+libxcb-sync1_1.13.1-2_amd64.deb libs optional
+libxcb-xf86dri0-dbgsym_1.13.1-2_amd64.deb debug optional automatic=yes
+libxcb-xf86dri0-dev_1.13.1-2_amd64.deb libdevel optional
+libxcb-xf86dri0_1.13.1-2_amd64.deb libs optional
+libxcb-xfixes0-dbgsym_1.13.1-2_amd64.deb debug optional automatic=yes
+libxcb-xfixes0-dev_1.13.1-2_amd64.deb libdevel optional
+libxcb-xfixes0_1.13.1-2_amd64.deb libs optional
+libxcb-xinerama0-dbgsym_1.13.1-2_amd64.deb debug optional automatic=yes
+libxcb-xinerama0-dev_1.13.1-2_amd64.deb libdevel optional
+libxcb-xinerama0_1.13.1-2_amd64.deb libs optional
+libxcb-xinput-dev_1.13.1-2_amd64.deb libdevel optional
+libxcb-xinput0-dbgsym_1.13.1-2_amd64.deb debug optional automatic=yes
+libxcb-xinput0_1.13.1-2_amd64.deb libs optional
+libxcb-xkb-dev_1.13.1-2_amd64.deb libdevel optional
+libxcb-xkb1-dbgsym_1.13.1-2_amd64.deb debug optional automatic=yes
+libxcb-xkb1_1.13.1-2_amd64.deb libs optional
+libxcb-xtest0-dbgsym_1.13.1-2_amd64.deb debug optional automatic=yes
+libxcb-xtest0-dev_1.13.1-2_amd64.deb libdevel optional
+libxcb-xtest0_1.13.1-2_amd64.deb libs optional
+libxcb-xv0-dbgsym_1.13.1-2_amd64.deb debug optional automatic=yes
+libxcb-xv0-dev_1.13.1-2_amd64.deb libdevel optional
+libxcb-xv0_1.13.1-2_amd64.deb libs optional
+libxcb-xvmc0-dbgsym_1.13.1-2_amd64.deb debug optional automatic=yes
+libxcb-xvmc0-dev_1.13.1-2_amd64.deb libdevel optional
+libxcb-xvmc0_1.13.1-2_amd64.deb libs optional
+libxcb1-dbgsym_1.13.1-2_amd64.deb debug optional automatic=yes
+libxcb1-dev_1.13.1-2_amd64.deb libdevel optional
+libxcb1-udeb_1.13.1-2_amd64.udeb debian-installer optional
+libxcb1_1.13.1-2_amd64.deb libs optional
+libxcb_1.13.1-2_amd64.buildinfo libdevel optional

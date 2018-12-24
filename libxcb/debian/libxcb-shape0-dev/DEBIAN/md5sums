@@ -1,0 +1,5 @@
+b1c5154b4ad9733d8582b2ed8f25a157  usr/include/xcb/shape.h
+0bea29f2f4cf35e1cb529a49ae8222ba  usr/lib/x86_64-linux-gnu/libxcb-shape.a
+50c3aae30f53cad7b0e66f904a698efd  usr/lib/x86_64-linux-gnu/pkgconfig/xcb-shape.pc
+7c16d514083ac8d54e07d73ce5e61315  usr/share/doc/libxcb-shape0-dev/changelog.Debian.gz
+618ee90893b45d0d0c19d41a3a3d2e7d  usr/share/doc/libxcb-shape0-dev/copyright

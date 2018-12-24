@@ -1,0 +1,13 @@
+Package: libxcb-glx0-dbgsym
+Source: libxcb
+Version: 1.13.1-2
+Auto-Built-Package: debug-symbols
+Architecture: amd64
+Maintainer: Debian X Strike Force <debian-x@lists.debian.org>
+Installed-Size: 102
+Depends: libxcb-glx0 (= 1.13.1-2)
+Section: debug
+Priority: optional
+Multi-Arch: same
+Description: debug symbols for libxcb-glx0
+Build-Ids: 39842f3753b8ba409b2534457e7da2e43bbdb1d7

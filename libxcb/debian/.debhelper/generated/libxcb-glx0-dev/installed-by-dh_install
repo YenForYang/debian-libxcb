@@ -1,0 +1,4 @@
+debian/tmp/usr/include/xcb/glx.h
+debian/tmp/usr/lib/x86_64-linux-gnu/libxcb-glx.a
+debian/tmp/usr/lib/x86_64-linux-gnu/libxcb-glx.so
+debian/tmp/usr/lib/x86_64-linux-gnu/pkgconfig/xcb-glx.pc

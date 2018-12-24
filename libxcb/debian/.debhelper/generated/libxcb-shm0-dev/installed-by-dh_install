@@ -1,0 +1,4 @@
+debian/tmp/usr/include/xcb/shm.h
+debian/tmp/usr/lib/x86_64-linux-gnu/libxcb-shm.a
+debian/tmp/usr/lib/x86_64-linux-gnu/libxcb-shm.so
+debian/tmp/usr/lib/x86_64-linux-gnu/pkgconfig/xcb-shm.pc

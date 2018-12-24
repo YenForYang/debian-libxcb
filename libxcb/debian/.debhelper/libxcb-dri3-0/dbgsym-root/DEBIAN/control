@@ -1,0 +1,13 @@
+Package: libxcb-dri3-0-dbgsym
+Source: libxcb
+Version: 1.13.1-2
+Auto-Built-Package: debug-symbols
+Architecture: amd64
+Maintainer: Debian X Strike Force <debian-x@lists.debian.org>
+Installed-Size: 27
+Depends: libxcb-dri3-0 (= 1.13.1-2)
+Section: debug
+Priority: optional
+Multi-Arch: same
+Description: debug symbols for libxcb-dri3-0
+Build-Ids: ecf25bf047dad3eb2f2199a900a24b0bdb85cf0a

@@ -1,0 +1,4 @@
+debian/tmp/usr/include/xcb/randr.h
+debian/tmp/usr/lib/x86_64-linux-gnu/libxcb-randr.a
+debian/tmp/usr/lib/x86_64-linux-gnu/libxcb-randr.so
+debian/tmp/usr/lib/x86_64-linux-gnu/pkgconfig/xcb-randr.pc

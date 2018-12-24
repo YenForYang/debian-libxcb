@@ -1,0 +1,5 @@
+e1c5f447d928a7b52c483514a1857f00  usr/include/xcb/xtest.h
+764c7873597c1181df54d7ab02668d5a  usr/lib/x86_64-linux-gnu/libxcb-xtest.a
+c52931e48c2d8e4fd20e2d8f66389bf0  usr/lib/x86_64-linux-gnu/pkgconfig/xcb-xtest.pc
+7c16d514083ac8d54e07d73ce5e61315  usr/share/doc/libxcb-xtest0-dev/changelog.Debian.gz
+618ee90893b45d0d0c19d41a3a3d2e7d  usr/share/doc/libxcb-xtest0-dev/copyright

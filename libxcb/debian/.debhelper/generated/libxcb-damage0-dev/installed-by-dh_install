@@ -1,0 +1,4 @@
+debian/tmp/usr/include/xcb/damage.h
+debian/tmp/usr/lib/x86_64-linux-gnu/libxcb-damage.a
+debian/tmp/usr/lib/x86_64-linux-gnu/libxcb-damage.so
+debian/tmp/usr/lib/x86_64-linux-gnu/pkgconfig/xcb-damage.pc
